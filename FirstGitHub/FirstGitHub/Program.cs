@@ -16,6 +16,8 @@ namespace FirstGitHub
 
             Console.BackgroundColor = ConsoleColor.Green;
             Console.WriteLine("Branches!!!");
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Merge!!!");
         }
     }
 }
