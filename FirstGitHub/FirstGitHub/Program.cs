@@ -12,6 +12,10 @@ namespace FirstGitHub
         {
             Console.WriteLine("First Get Hub!");
             Console.WriteLine("Master Success!");
+
+
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.WriteLine("Branches!!!");
         }
     }
 }
