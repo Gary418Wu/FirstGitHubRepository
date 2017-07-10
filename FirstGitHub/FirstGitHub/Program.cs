@@ -14,10 +14,13 @@ namespace FirstGitHub
             Console.WriteLine("Master Success!");
 
 
+
             Console.BackgroundColor = ConsoleColor.Green;
             Console.WriteLine("Branches!!!");
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Merge!!!");
+
+            Console.WriteLine("Thrid Branch Success!!");
         }
     }
 }
