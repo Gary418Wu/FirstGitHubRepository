@@ -12,16 +12,12 @@ namespace FirstGitHub
         {
             Console.WriteLine("First Get Hub!");
             Console.WriteLine("Master Success!");
-<<<<<<< HEAD
 
 
             Console.BackgroundColor = ConsoleColor.Green;
             Console.WriteLine("Branches!!!");
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Merge!!!");
-=======
-            Console.WriteLine("Thrid Branch Success!!");
->>>>>>> Third
         }
     }
 }
