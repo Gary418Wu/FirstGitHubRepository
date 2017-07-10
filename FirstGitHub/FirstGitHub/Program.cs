@@ -11,6 +11,7 @@ namespace FirstGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("First Get Hub!");
+            Console.WriteLine("Master Success!");
         }
     }
 }
